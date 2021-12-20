@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(106,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(117,44): warning C4244: 'argument': conversion from 'double' to 'GLsizeiptr', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(140,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(215,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(216,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(314,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(324,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(333,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(341,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(342,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\potatoe\source\repos\sphere\sphere\src\main.cpp(343,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  sphere.vcxproj -> C:\Users\potatoe\source\repos\sphere\x64\Debug\sphere.exe
